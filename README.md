@@ -38,3 +38,5 @@ Applied Principal Component Analysis (PCA) for dimensionality reduction, keeping
 ## Best Model Selection
 Selected the best model based on the highest F1 Score on the validation data. The best model, `random_forest_pca_grid`, was then tested on the test data, achieving a final F1 Score of 0.93.
 
+[If you like this project, please give it a ⭐ star](https://github.com/ahmadrezasedghi/iris_classification).
+
